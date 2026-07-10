@@ -9,8 +9,6 @@ class Solution {
         if(d>Integer.MAX_VALUE || d<Integer.MIN_VALUE){
             return 0;
         }
-        else{
-            return (int)d;
-        }
+        return (int)d;
     }
 }
