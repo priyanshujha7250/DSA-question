@@ -1,6 +1,5 @@
 class Solution {
     public int reverse(int x) {
-        String s = "" + x;
         double d = 0;
         while(x!=0){
             d = d*10 + x%10;
