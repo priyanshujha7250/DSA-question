@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0485-max-consecutive-ones) |
+| [0867-transpose-matrix](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/priyanshujha7250/Leetcode-question/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/priyanshujha7250/Leetcode-question/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyanshujha7250/Leetcode-question/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -93,10 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyanshujha7250/Leetcode-question/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/priyanshujha7250/Leetcode-question/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/priyanshujha7250/Leetcode-question/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
