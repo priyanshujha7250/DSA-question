@@ -20,9 +20,9 @@ class Solution {
         //     }
         // }
         // return true;
-        if(s.length() != t.length()){
-            return false;
-        }
+        // if(s.length() != t.length()){
+        //     return false;
+        // }
         int freq[] = new int[26];
         for(int i = 0;i<s.length();i++){
             int n = (int)s.charAt(i) - 97;
