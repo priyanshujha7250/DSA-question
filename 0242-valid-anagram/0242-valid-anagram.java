@@ -25,8 +25,8 @@ class Solution {
         }
         int freq[] = new int[26];
         for(int i = 0;i<s.length();i++){
-            freq[(int)s.charAt(i) - 97]++;
-            freq[(int)t.charAt(i) - 97]--;
+            freq[(int)s.charAt(i) - 'a']++;
+            freq[(int)t.charAt(i) - 'a']--;
         }
         for(int i = 0;i<26;i++){
             if(freq[i] != 0){
@@ -34,6 +34,5 @@ class Solution {
             }
         }
         return true;
-
     }
 }
