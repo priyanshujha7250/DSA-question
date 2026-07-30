@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0242-valid-anagram) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/priyanshujha7250/Leetcode-question/tree/master/1957-delete-characters-to-make-fancy-string) |
 ## Trie
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyanshujha7250/Leetcode-question/tree/master/2149-rearrange-array-elements-by-sign) |
