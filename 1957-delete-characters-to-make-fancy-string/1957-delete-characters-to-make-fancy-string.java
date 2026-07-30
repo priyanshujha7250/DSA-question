@@ -1,5 +1,8 @@
 class Solution {
     public String makeFancyString(String s) {
+        if(s.length() == 0){
+            return s;
+        }
         StringBuilder sc = new StringBuilder("");
         int count = 1;
         sc.append( s.charAt(0));
