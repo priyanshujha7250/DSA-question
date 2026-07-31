@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0075-sort-colors) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0169-majority-element) |
 ## Counting
 |  |
