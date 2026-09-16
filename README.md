@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/priyanshujha7250/Leetcode-question/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/priyanshujha7250/Leetcode-question/tree/master/1572-matrix-diagonal-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/priyanshujha7250/Leetcode-question/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/priyanshujha7250/Leetcode-question/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
