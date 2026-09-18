@@ -1,11 +1,19 @@
 class Solution {
     static int findFloor(int[] arr, int x) {
-        for(int i = arr.length-1;i>=0;i--){
-            if(x>=arr[i]){
-                return i;
+        int left = 0;
+        int right = arr.length-1;
+        int ans = -1;
+        while(left<=right){
+            int mid = left + (right-left)/2;
+            if(arr[mid]<=x){
+                ans = mid;
+                left = left + 1;
+            }
+            else{
+                right = right -1;
             }
         }
-        return -1;
+        return ans;
 
     }
 }
