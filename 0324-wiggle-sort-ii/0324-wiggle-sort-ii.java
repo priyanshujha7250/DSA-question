@@ -3,12 +3,7 @@ class Solution {
     public void wiggleSort(int[] nums) {
 
         int s[] = nums.clone();
-        for(int x: s)
-                System.out.print(x + " ");
-        System.out.println();
         Arrays.sort(s);
-        for(int x: s)
-                System.out.print(x + " ");
         int mid = (nums.length-1)/2;
         int high = (nums.length-1);
         for(int i =0;i<nums.length; i++)
