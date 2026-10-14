@@ -4,13 +4,13 @@ class Solution {
         //[9,8,8,8,7,7]
         //[9,8,7,8,7,7]
 
-        int j = 1; //j = 2
+        int j = 0; //j = 2
         for(int i = 1;i<nums.length;i++){//i =2
-            if( nums[i] != nums[j-1]){
-                nums[j] = nums[i];
+            if( nums[i] > nums[j]){
                 j++;
+                nums[j] = nums[i];
             }
         }
-        return j;
+        return j+1;
     }
 }
